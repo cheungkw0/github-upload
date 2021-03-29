@@ -1,0 +1,6 @@
+- musical instruments
+  - piano
+- sports
+  - swimming
+  - diving (will learn)
+  - badminton
