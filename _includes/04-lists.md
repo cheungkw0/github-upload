@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- musical instruments
+  - piano
+- sports
+  - swimming
+  - diving (will learn)
+  - badminton
